@@ -13,3 +13,4 @@
 - [[翻译] 我在阅读 MDN 的时候发现的三个 input 的属性](https://github.com/chenwangji/blog/issues/2)
 - [使用 travis CI 和 gh-pages 快速部署页面](https://github.com/chenwangji/blog/issues/1)
 - [一些常见代码片段收集](https://github.com/chenwangji/blog/wiki)
+- [使用 Trae 做了一个包含登录注册，打通前后端的 TODO 小程序](https://github.com/chenwangji/blog/issues/22)
